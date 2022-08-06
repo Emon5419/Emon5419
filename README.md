@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 
-<img align='center' alt='banner' wdith='1250px' src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611f8a4bb4a9ef1ad385e7bb4279a070a9452a630c7&rid=giphy.gif&ct=g">
+<img align='center' alt='banner' wdith='1250' src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611f8a4bb4a9ef1ad385e7bb4279a070a9452a630c7&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Emon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align='right' alt='coding' wdith='400px' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
