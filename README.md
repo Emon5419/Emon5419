@@ -17,8 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/alauddin emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alauddin emon" height="30" width="40" /></a>
+<a href="https://dev.to/emon.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="emon.me" height="30" width="40" /></a>
 <a href="https://twitter.com/alauddinem0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alauddinem0n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad imon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad imon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/alauddin imon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alauddin imon" height="30" width="40" /></a>
+<a href="https://fb.com/alauddin imon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alauddin imon" height="30" width="40" /></a>
+<a href="https://instagram.com/change profile photo 90emo_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="change profile photo 90emo_n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
