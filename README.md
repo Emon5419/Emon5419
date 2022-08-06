@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Redux**
 
-- 👨‍💻 All of my projects are available at [emon3.netlify.com](emon3.netlify.com)
+- 👨‍💻 All of my projects are available at [emon3.netlify.com]([emon3.netlify.com](https://emon3.netlify.app/))
 
 - 💬 Ask me about **React & Javascript**
 
