@@ -3,7 +3,7 @@
 <img align='center' alt='banner' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif" >
 <h1 align="center">Hi 👋, I'm Emon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align='right' alt='coding' wdith='400' height='150' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+<img align='right' alt='coding' wdith='600' height='250' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon5419&label=Profile%20views&color=0e75b6&style=flat" alt="emon5419" /> </p>
