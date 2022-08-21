@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/alauddinem0n" target="blank"><img src="https://img.shields.io/twitter/follow/alauddinem0n?logo=twitter&style=for-the-badge" alt="alauddinem0n" /></a> </p>
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js & MongoDB**
 
-- 👨‍💻 All of my projects are available at [Protfolio](https://emon3.netlify.app/)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Emon5419?tab=repositories)
 
 - 💬 Ask me about **React & Javascript**
 
