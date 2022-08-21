@@ -16,9 +16,7 @@
 
 - 💬 Ask me about **Front-End Development**
 
-- 📫 To reach me **[Gmail](alauddinemon3@gmail.com)**
-
-- ⚡ Fun fact **I'm Funny**
+- 📫 To reach me Connect on my **[Gmail](alauddinemon3@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
