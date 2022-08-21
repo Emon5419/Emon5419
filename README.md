@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js & MongoDB**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Emon5419?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Emon5419?tab=repositories)
 
-- 💬 Ask me about **React & Javascript**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **alauddinemon3@gmail.com**
 
