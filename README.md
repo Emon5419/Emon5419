@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/alauddinem0n" target="blank"><img src="https://img.shields.io/twitter/follow/alauddinem0n?logo=twitter&style=for-the-badge" alt="alauddinem0n" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js & MongoDB**
+- 🌱 I'm Font-end Web developer,
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Emon5419?tab=repositories)
+- 👨‍💻 MongoDB, Express.JS, React.JS, Node.Js
 
 - 💬 Ask me about **Front-End Development**
 
